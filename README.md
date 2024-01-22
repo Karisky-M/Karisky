@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b> Azure / Cloud Project (AlgoExpert)</b>
-  - [Created a live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Azure / Cloud Project </b>
+  - [Created a live SOC / Honeynet in Azure](https://github.com/Karisky-M/Cloud-SOC)
 
 
 <h2> 🤳 Connect with me:</h2>
