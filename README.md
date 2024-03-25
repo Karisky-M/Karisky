@@ -1,25 +1,20 @@
-<h1>Hi, I'm Karina! <br/><a href="https://github.com/Karisky-M">Programmer</a>, <a href="https://www.linkedin.com/in/karina-medina037/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Karina! <a href="https://www.linkedin.com/in/karina-medina037/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
 
 - <b> Azure / Cloud Project </b>
   - [Created a live SOC / Honeynet in Azure](https://github.com/Karisky-M/Cloud-SOC)
 
-<h2>📺 YouTube Videos</h2>
-
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Karinamedina | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Karinamedina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="KarinaMedina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/KarinaMedi29941
 [youtube]: https://www.youtube.com/@karinamedina7840
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/karina-medina037
 
 <!--
