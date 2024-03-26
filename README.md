@@ -9,12 +9,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Karinamedina | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Karinamedina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="KarinaMedina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/KarinaMedi29941
-[youtube]: https://www.youtube.com/@karinamedina7840
 [linkedin]: https://linkedin.com/in/karina-medina037
 
 <!--
